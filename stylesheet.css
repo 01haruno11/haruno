@@ -125,7 +125,7 @@ img{
 
 /*NEWS*/
 #news{
- background-image:url("images/news-bg.jpg");
+ background-image:url("https://github.com/01haruno11/mame/blob/main/cafesite/images/news-bg.jpg?raw=true");
  height:270px;
  margin-bottom:20px;
  background-size: cover;
@@ -363,7 +363,7 @@ aside p{
  
 /*MENU*/
 #menu{
-    background-image:url("images/menu-bg.jpg");  
+    background-image:url("https://github.com/01haruno11/mame/blob/main/cafesite/images/menu-bg.jpg?raw=true");  
     min-height:100vh;
 }
 .menu-contents{
@@ -391,7 +391,7 @@ aside p{
 
 /*conact*/
 #contact{
-    background-image:url(images/contact-bg.jpg);
+    background-image:url(https://github.com/01haruno11/mame/blob/main/cafesite/images/contact-bg.jpg?raw=true);
     min-height: 100vh;
 }
 
